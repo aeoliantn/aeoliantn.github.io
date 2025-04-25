@@ -35,7 +35,7 @@ weight = 10
 
 [params.homeInfoParams]
 Title = "Hi there wave"
-Content = "施工中"
+Content = "施工中；鸣谢：[Leto](https://kaseeia-hsu.github.io/) & [Catbaron](https://blog.catbaron.com/) "
 
 [[params.socialIcons]]
 name = "instagram"
