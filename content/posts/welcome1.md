@@ -1,6 +1,6 @@
 +++
 date = '2025-04-25T13:52:54+09:00'
-draft = true
+draft = false
 title = 'Welcome1'
 tags = [ "welcome" ]
 categories = [ "BLOG" ]
