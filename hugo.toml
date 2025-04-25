@@ -43,7 +43,7 @@ url = "https://www.instagram.com/"
 
 [[params.socialIcons]]
 name = "applemusic"
-url = "https://beta.music.apple.com/jp/new?l=en/"
+url = "https://music.apple.com/us/playlist/replay-2024/pl.rp-0Axns8EgnMAa/"
 
 [[params.socialIcons]]
 name = "rss"
@@ -53,16 +53,17 @@ url = " "
 name = "letterboxd"
 url = "https://www.douban.com/people/133652048/"
 
+
+
 [params]
 ShowBreadCrumbs = true
 ShowReadingTime = true
 ShowPostNavLinks = true
 ShowWordCount = true
 
-
-[params.assets]
-favicon = "/favicon.ico"
-favicon16x16 = "/favicon-16x16.png"
-favicon32x32 = "/favicon-32x32.png"
-apple_touch_icon = "/apple-touch-icon.png"
-safari_pinned_tab = "/safari-pinned-tab.svg"
+[assets]
+favicon = "img/favicon.ico"
+favicon16x16 = "img/favicon.ico"
+favicon32x32 = "img/favicon.ico"
+apple_touch_icon = "img/favicon.ico"
+safari_pinned_tab = "img/favicon.ico"
