@@ -61,9 +61,10 @@ ShowReadingTime = true
 ShowPostNavLinks = true
 ShowWordCount = true
 
-[assets]
-favicon = "img/favicon.ico"
-favicon16x16 = "img/favicon.ico"
-favicon32x32 = "img/favicon.ico"
-apple_touch_icon = "img/favicon.ico"
-safari_pinned_tab = "img/favicon.ico"
+[params.assets]
+disableFingerprinting = true
+disableHLJS = true
+favicon = "/assets/favicon.ico"
+favicon16x16 = "/assets/favicon-16x16.png"
+favicon32x32 = "/assets/favicon-32x32.png"
+apple_touch_icon = "/assets/apple-touch-icon.png"
