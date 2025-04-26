@@ -1,7 +1,7 @@
 +++
 date = '2025-04-26T23:07:26+09:00'
 draft = false
-title = 'README'
+title = 'README | Apr2625p1test2'
 tags = [ "test","BLOG" ]
 categories = [ "BLOG" ]
 summary = 'actually, don’t read me.'
@@ -48,6 +48,8 @@ summary = 'actually, don’t read me.'
 
 <div style="text-align: center"><img width="75" height="75"img src="https://raw.githubusercontent.com/aeoliantn/aeoliantn.github.io/refs/heads/main/assets/android-chrome-512x512.png"/>
 </div>
+
+<center><img width="75" height="75"img src="https://raw.githubusercontent.com/aeoliantn/aeoliantn.github.io/refs/heads/main/assets/android-chrome-512x512.png"/></center>
 
 
 而且网站名“赤道螃蟹”也是我随手一起，原本来源于之前公众号的名字，但现在也本着“多一事不如少一事”的想法，就先放在那好了，万一再给网页整出点我看不懂的问题。
