@@ -46,9 +46,9 @@ summary = 'actually, don’t read me.'
 
 而且最开始用线条小狗图标只是为了试一下效果，直到最后看了好个小时的小金毛之后就……算了，就用它吧。 
 
-<div style="text-align: center">
-<img src="https://avatars.fastly.steamstatic.com/d210ae43c6a1ae83bedd0cba716478189f450649_full.jpg"/>
+<div style="text-align: center"><img width="75" height="75"img src="https://raw.githubusercontent.com/aeoliantn/aeoliantn.github.io/refs/heads/main/assets/android-chrome-512x512.png"/>
 </div>
+
 
 而且网站名“赤道螃蟹”也是我随手一起，原本来源于之前公众号的名字，但现在也本着“多一事不如少一事”的想法，就先放在那好了，万一再给网页整出点我看不懂的问题。
 
