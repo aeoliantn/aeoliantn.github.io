@@ -15,12 +15,5 @@
       <guid>https://example.org/categories/blog/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Bblog</title>
-      <link>https://example.org/categories/bblog/</link>
-      <pubDate>Fri, 25 Apr 2025 16:15:17 +0900</pubDate>
-      <guid>https://example.org/categories/bblog/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

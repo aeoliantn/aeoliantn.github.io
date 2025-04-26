@@ -1,6 +1,6 @@
 +++
 date = '2025-04-25T16:08:39+09:00'
-draft = false
+draft = true
 title = 'Neo2'
 tags = [ "welcome" ]
 categories = [ "bblog" ]
