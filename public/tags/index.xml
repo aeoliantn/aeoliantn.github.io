@@ -22,12 +22,5 @@
       <guid>https://example.org/tags/test/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Test2</title>
-      <link>https://example.org/tags/test2/</link>
-      <pubDate>Sat, 26 Apr 2025 11:43:17 +0900</pubDate>
-      <guid>https://example.org/tags/test2/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
