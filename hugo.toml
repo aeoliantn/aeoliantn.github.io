@@ -35,23 +35,30 @@ weight = 10
 
 [params.homeInfoParams]
 Title = "Hi there wave"
-Content = "施工中；鸣谢：[Leto](https://kaseeia-hsu.github.io/) & [Catbaron](https://blog.catbaron.com/) "
+Content = " # 施工接近结束 \n\n 鸣谢：[Leto](https://kaseeia-hsu.github.io/) & [Catbaron](https://blog.catbaron.com/) \n\n Instagram | Apple Music | Douban | NeoDB | RSS "
+
 
 [[params.socialIcons]]
 name = "instagram"
-url = "https://www.instagram.com/"
+url = "https://www.instagram.com/_tangerinetn/"
 
 [[params.socialIcons]]
 name = "applemusic"
-url = "https://music.apple.com/us/playlist/replay-2024/pl.rp-0Axns8EgnMAa/"
+url = "https://music.apple.com/profile/aerosolTn/"
 
-[[params.socialIcons]]
-name = "rss"
-url = "https://aeoliantn.github.io/index.xml"
+
 
 [[params.socialIcons]]
 name = "letterboxd"
 url = "https://www.douban.com/people/133652048/"
+
+[[params.socialIcons]]
+name = "guruShots"
+url = "https://neodb.social/users/azerothtn/"
+
+[[params.socialIcons]]
+name = "rss"
+url = "https://aeoliantn.github.io/index.xml"
 
 
 
