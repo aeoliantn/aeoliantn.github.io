@@ -7,3 +7,13 @@ categories = [ "BLOG" ]
 +++
 
 test rss
+
+
+<div style="text-align: center">
+<img src="D:\hugo\aeoliantn.github.io\content\posts\rssneo\xiaojimao.jpg"/>
+</div>
+
+<div style="text-align: center">
+<img src="https://avatars.fastly.steamstatic.com/d210ae43c6a1ae83bedd0cba716478189f450649_full.jpg"/>
+</div>
+

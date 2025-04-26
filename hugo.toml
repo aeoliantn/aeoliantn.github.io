@@ -35,7 +35,7 @@ weight = 10
 
 [params.homeInfoParams]
 Title = "Hi there wave"
-Content = " # 施工接近结束 \n\n 鸣谢：[Leto](https://kaseeia-hsu.github.io/) & [Catbaron](https://blog.catbaron.com/) \n\n Instagram | Apple Music | Douban | NeoDB | RSS "
+Content = " # 虽说装修还没完成……但请先找到个地方坐坐！ \n\n 鸣谢：[Leto](https://kaseeia-hsu.github.io/) & [Catbaron](https://blog.catbaron.com/) \n\n Instagram | Apple Music | Douban | NeoDB | RSS "
 
 
 [[params.socialIcons]]

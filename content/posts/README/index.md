@@ -90,11 +90,13 @@ summary = 'actually, don’t read me.'
 
 其实一开始是想写过于10年在各种地方写文章的经历，以及搭建这个blog的原因，但现在已经不太重要了……未来或许会加上。
 
-<center>That's it!
+<center>That's it!  
 
-Teni
-Apr. 26, 2025, Sat.  
-Tsukuba
+  
+
+ **Teni**  
+   Apr. 26, 2025, Sat.  
+  Tsukuba
 
 </center>
 
