@@ -2,24 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on 热带螃蟹</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://example.org/categories/</link>
     <description>Recent content in Categories on 热带螃蟹</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 26 Apr 2025 23:07:26 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BLOG</title>
-      <link>http://localhost:1313/categories/blog/</link>
+      <link>https://example.org/categories/blog/</link>
       <pubDate>Sat, 26 Apr 2025 23:07:26 +0900</pubDate>
-      <guid>http://localhost:1313/categories/blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bblog</title>
-      <link>http://localhost:1313/categories/bblog/</link>
-      <pubDate>Fri, 25 Apr 2025 16:15:17 +0900</pubDate>
-      <guid>http://localhost:1313/categories/bblog/</guid>
+      <guid>https://example.org/categories/blog/</guid>
       <description></description>
     </item>
   </channel>
