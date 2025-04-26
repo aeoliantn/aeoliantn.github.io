@@ -60,7 +60,10 @@ url = "https://neodb.social/users/azerothtn/"
 name = "rss"
 url = "https://aeoliantn.github.io/index.xml"
 
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
 ShowBreadCrumbs = true
