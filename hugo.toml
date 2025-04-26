@@ -60,6 +60,7 @@ ShowBreadCrumbs = true
 ShowReadingTime = true
 ShowPostNavLinks = true
 ShowWordCount = true
+ShowLastMod =  true
 
 [params.assets]
 disableFingerprinting = true
