@@ -12,9 +12,7 @@ summary = '换盆、发芽、重生与告别'
 
 <center>  
 
-  
 <font size="2">目前的阳台</font>
-   
  </center>
 
 周一刚回到家，发现新换盆的雏菊几乎失去活力，补水后经过三天才逐渐恢复。可能是剪根换盆后根系尚未发育完全，暂时无法有效吸收水分；也可能是换用透气性更好的陶土盆，导致土壤水分流失加快。
@@ -88,3 +86,20 @@ ___
   Tsukuba
 
 </center>
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="aeoliantn/aeoliantn.github.io"
+        data-repo-id="R_kgDOOfnlgw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOOfnlg84CphZd"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
