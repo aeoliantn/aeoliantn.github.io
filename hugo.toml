@@ -5,6 +5,8 @@ theme = 'PaperMod'
 
 
 
+
+
 [[menu.main]]
 identifier = "categories"
 name = "Categories"
@@ -66,12 +68,13 @@ url = "https://aeoliantn.github.io/index.xml"
       unsafe = true
 
 [params]
-ShowBreadCrumbs = true
-ShowReadingTime = true
+ShowBreadCrumbs = false
+ShowReadingTime = false
 ShowPostNavLinks = true
-ShowWordCount = true
+ShowWordCount = false
 ShowLastMod = true
-ShowToc= true
+ShowToc = false
+comments = false
 
 [params.assets]
 disableFingerprinting = true
