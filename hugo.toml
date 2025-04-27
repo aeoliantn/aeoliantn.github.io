@@ -74,7 +74,8 @@ ShowPostNavLinks = true
 ShowWordCount = false
 ShowLastMod = true
 ShowToc = false
-comments = false
+comments = true
+
 
 [params.assets]
 disableFingerprinting = true

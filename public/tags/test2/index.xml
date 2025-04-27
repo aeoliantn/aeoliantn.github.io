@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/test2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Embedtest</title>
-      <link>http://localhost:1313/posts/embedtest/</link>
+      <link>http://localhost:1313/posts/z.embedtest/z.embedtest/</link>
       <pubDate>Sat, 26 Apr 2025 14:51:47 +0900</pubDate>
-      <guid>http://localhost:1313/posts/embedtest/</guid>
+      <guid>http://localhost:1313/posts/z.embedtest/z.embedtest/</guid>
       <description>&lt;p&gt;test embed.&lt;/p&gt;
 &lt;p&gt;nothin happens here&lt;/p&gt;
 &lt;p&gt;wtf&lt;/p&gt;
@@ -38,24 +38,13 @@ anyone here?</description>
       <link>http://localhost:1313/posts/rssneo/</link>
       <pubDate>Sat, 26 Apr 2025 11:43:17 +0900</pubDate>
       <guid>http://localhost:1313/posts/rssneo/</guid>
-      <description>&lt;p&gt;test rss&lt;/p&gt;
-&lt;div style=&#34;text-align: center&#34;&gt;
-&lt;img src=&#34;D:\hugo\aeoliantn.github.io\content\posts\rssneo\xiaojimao.jpg&#34;/&gt;
-&lt;/div&gt;
-&lt;div style=&#34;text-align: center&#34;&gt;
-&lt;img src=&#34;https://avatars.fastly.steamstatic.com/d210ae43c6a1ae83bedd0cba716478189f450649_full.jpg&#34;/&gt;
-&lt;/div&gt;
-&lt;div style=&#34;text-align: center&#34;&gt;
-&lt;img src=&#34;https://raw.githubusercontent.com/aeoliantn/pic/main/images/jimao.jpg&#34;/&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://raw.githubusercontent.com/aeoliantn/pic/main/images/jimao.jpg%22&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;\images\DSC03408.jpg&#34; width=&#34;40%&#34; height=&#34;40%&#34; &gt;&lt;/p&gt;</description>
+      <description>本文用来各种小抄级别用的代码：够用就行</description>
     </item>
     <item>
       <title>Neo000</title>
-      <link>http://localhost:1313/posts/neo000/</link>
+      <link>http://localhost:1313/posts/z.neo000/z.neo000/</link>
       <pubDate>Fri, 25 Apr 2025 16:15:17 +0900</pubDate>
-      <guid>http://localhost:1313/posts/neo000/</guid>
+      <guid>http://localhost:1313/posts/z.neo000/z.neo000/</guid>
       <description>&lt;h2 id=&#34;1&#34;&gt;1&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;This is&amp;hellip;&amp;hellip;
@@ -65,15 +54,15 @@ anyone here?</description>
     </item>
     <item>
       <title>Neo1</title>
-      <link>http://localhost:1313/posts/neo1/</link>
+      <link>http://localhost:1313/posts/z.neo1/z.neo1/</link>
       <pubDate>Fri, 25 Apr 2025 16:15:17 +0900</pubDate>
-      <guid>http://localhost:1313/posts/neo1/</guid>
+      <guid>http://localhost:1313/posts/z.neo1/z.neo1/</guid>
       <description>&lt;h3 id=&#34;1&#34;&gt;1&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;11     1                    1&lt;/p&gt;
 &lt;p&gt;2223&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;石英的氧同位素组成被认为是一种可靠的示踪源(Sridhar et al., 1975；Clayton et al., 1978)。石英δ¹⁸O，定义为（18O/16O）样品/(18O/16O)VSMOW-1，在不同的宿主岩石类型及其结晶温度下存在显著差异（Chacko等，2001）。石英相对耐风化，因此在风化过程中可能保留其原始的氧同位素组成(Sridhar et al., 1975；Clayton et al., 1978)。主要由石英组成的亚洲风沙在全球粉尘循环中发挥着重要作用，在各种环境背景下既是源又是汇(Zhang et al., 2003；Wang et al., 2015)。这些特性使石英颗粒的δ¹⁸O成为土壤和其他汇中亚洲尘埃的重要示踪源(Gu et al., 1987；Ishii et al., 1995)。前人研究表明，石英的δ¹⁸O能有效区分戈壁沙漠和塔克拉玛干沙漠等不同沙尘源区（Yan et al., 2014）。日本的风沙沉积也受到当地地质特征的影响，导致风沙和当地来源的物质混合在一起(Mizota等人，1992,1990；Eguchi et al., 2012；Nakao et al., 2015)。在现有研究的基础上，本研究试图将研究范围扩大到中亚，并进一步阐明亚洲沙尘输送的变化及其对东亚沙尘通量的影响。&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;picisthis&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/neo1/bbiy_flag.png&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;picisthis&#34; loading=&#34;lazy&#34; src=&#34;bbiy_flag.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

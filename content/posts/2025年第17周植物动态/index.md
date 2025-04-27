@@ -84,7 +84,7 @@ ___
   
 
  **Teni**  
-   Apr. 27, 2025, Sat.  
+   Apr. 27, 2025. Sun  
   Tsukuba
 
 </center>
