@@ -36,8 +36,8 @@ url = "/search/"
 weight = 10
 
 [params.homeInfoParams]
-Title = "Hi there wave"
-Content = " # 虽说装修还没完成……但请先找到个地方坐坐！ \n\n 鸣谢：[Leto](https://kaseeia-hsu.github.io/) & [Catbaron](https://blog.catbaron.com/) \n\n Instagram | Apple Music | Douban | NeoDB | RSS "
+Title = "先随便坐！要喝点什么？"
+Content = "|\n\n「热带螃蟹」，来自tropic of cancer，其本意为北回归线，和夏至日相对应。\n\n \n\n 仅管我更喜欢冬至日，但是热带山羊不如热带螃蟹好听。 \n\n|\n\n 多谢[@Leto](https://kaseeia-hsu.github.io/) 和 [@Catbaron](https://blog.catbaron.com/)在建站时提供的帮助 \n\n | \n\n Insta | AM | Douban | NeoDB | RSS "
 
 
 [[params.socialIcons]]
@@ -75,6 +75,8 @@ ShowWordCount = false
 ShowLastMod = true
 ShowToc = false
 comments = true
+#defaultTheme = auto
+
 
 
 [params.assets]
