@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>其他 on 热带螃蟹</title>
+    <link>http://localhost:1313/categories/%E5%85%B6%E4%BB%96/</link>
+    <description>Recent content in 其他 on 热带螃蟹</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 30 Apr 2025 14:25:40 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E5%85%B6%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>图片无法加载问题</title>
+      <link>http://localhost:1313/posts/2025/%E5%9B%BE%E7%89%87%E6%97%A0%E6%B3%95%E5%8A%A0%E8%BD%BD%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Wed, 30 Apr 2025 14:25:40 +0900</pubDate>
+      <guid>http://localhost:1313/posts/2025/%E5%9B%BE%E7%89%87%E6%97%A0%E6%B3%95%E5%8A%A0%E8%BD%BD%E9%97%AE%E9%A2%98/</guid>
+      <description>假如你的浏览器无法加载图片</description>
+    </item>
+  </channel>
+</rss>

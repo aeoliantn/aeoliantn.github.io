@@ -2,8 +2,8 @@
 date = '2025-04-26T23:07:26+09:00'
 draft = false
 title = 'README | Apr2625p1test2'
-tags = [ "test","BLOG" ]
-categories = [ "BLOG" ]
+tags = [ "blog" ]
+categories = [ "日常" ]
 summary = 'actually, don’t read me.'
 +++
 

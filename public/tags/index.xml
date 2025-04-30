@@ -16,17 +16,10 @@
       <description></description>
     </item>
     <item>
-      <title>BLOG</title>
+      <title>Blog</title>
       <link>https://example.org/tags/blog/</link>
       <pubDate>Sat, 26 Apr 2025 23:07:26 +0900</pubDate>
       <guid>https://example.org/tags/blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>https://example.org/tags/test/</link>
-      <pubDate>Sat, 26 Apr 2025 23:07:26 +0900</pubDate>
-      <guid>https://example.org/tags/test/</guid>
       <description></description>
     </item>
   </channel>

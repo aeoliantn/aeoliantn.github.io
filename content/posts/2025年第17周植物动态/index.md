@@ -2,10 +2,18 @@
 date = '2025-04-27T20:37:10+09:00'
 draft = false
 title = '2025年第17周植物动态'
-tags = [ "植物记录", ]
-categories = [ "BLOG" ]
+tags = [ "植物记录" ]
+categories = [ "植物记录" ]
 summary = '换盆、发芽、重生与告别'
 +++
+
+
+<center>  
+
+<font size="3">如果图片失效请尝试
+**浏览器-设置-语言** 将简体中文以外的语言置顶
+</font>
+ </center>
 
 <div style="text-align: center"><img width="400" height="300"img src="https://github.com/aeoliantn/pic/blob/main/IMG_2608.JPG?raw=true"/>
 </div>

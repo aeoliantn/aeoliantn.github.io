@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/2025%E5%B9%B4%E7%AC%AC17%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</loc>
-    <lastmod>2025-04-27T20:37:10+09:00</lastmod>
+    <loc>https://example.org/posts/</loc>
+    <lastmod>2025-04-30T14:25:40+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/blog/</loc>
+    <loc>https://example.org/</loc>
+    <lastmod>2025-04-30T14:25:40+09:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/2025%E5%B9%B4%E7%AC%AC17%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</loc>
     <lastmod>2025-04-27T20:37:10+09:00</lastmod>
   </url><url>
     <loc>https://example.org/categories/</loc>
     <lastmod>2025-04-27T20:37:10+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2025-04-27T20:37:10+09:00</lastmod>
-  </url><url>
     <loc>https://example.org/tags/</loc>
     <lastmod>2025-04-27T20:37:10+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/%E6%A4%8D%E7%89%A9%E8%AE%B0%E5%BD%95/</loc>
+    <loc>https://example.org/categories/%E6%A4%8D%E7%89%A9%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2025-04-27T20:37:10+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://example.org/tags/%E6%A4%8D%E7%89%A9%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2025-04-27T20:37:10+09:00</lastmod>
   </url><url>
     <loc>https://example.org/tags/blog/</loc>
@@ -29,7 +29,7 @@
     <loc>https://example.org/posts/readme/</loc>
     <lastmod>2025-04-26T23:07:26+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/test/</loc>
+    <loc>https://example.org/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2025-04-26T23:07:26+09:00</lastmod>
   </url><url>
     <loc>https://example.org/archives/</loc>
