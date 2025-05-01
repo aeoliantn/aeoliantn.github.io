@@ -5,9 +5,16 @@
     <link>https://example.org/categories/</link>
     <description>Recent content in Categories on 热带螃蟹</description>
     <generator>Hugo -- 0.146.7</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Sun, 27 Apr 2025 20:37:10 +0900</lastBuildDate>
+    <language>zh</language>
+    <lastBuildDate>Thu, 01 May 2025 16:24:16 +0900</lastBuildDate>
     <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>音乐记录</title>
+      <link>https://example.org/categories/%E9%9F%B3%E4%B9%90%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Thu, 01 May 2025 16:24:16 +0900</pubDate>
+      <guid>https://example.org/categories/%E9%9F%B3%E4%B9%90%E8%AE%B0%E5%BD%95/</guid>
+      <description></description>
+    </item>
     <item>
       <title>植物记录</title>
       <link>https://example.org/categories/%E6%A4%8D%E7%89%A9%E8%AE%B0%E5%BD%95/</link>

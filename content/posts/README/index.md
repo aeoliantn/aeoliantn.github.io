@@ -5,6 +5,7 @@ title = 'README | Apr2625p1test2'
 tags = [ "blog" ]
 categories = [ "日常" ]
 summary = 'actually, don’t read me.'
+language = 'zh_CN'
 +++
 
 #### 1
@@ -92,6 +93,8 @@ summary = 'actually, don’t read me.'
 甚至都没法确定这篇文章的tag是不是应该是test。 
 
 其实一开始是想写过于10年在各种地方写文章的经历，以及搭建这个blog的原因，但现在已经不太重要了……未来或许会加上。
+
+t测试
 
 
 

@@ -1,5 +1,6 @@
 baseURL = 'https://example.org/'
-languageCode = 'zh-CN'
+languageCode = 'zh'
+#defaultContentLanguage = 'zh'
 title = '热带螃蟹'
 theme = 'PaperMod'
 
@@ -69,9 +70,9 @@ url = "https://aeoliantn.github.io/index.xml"
 
 [params]
 ShowBreadCrumbs = false
-ShowReadingTime = false
+ShowReadingTime = true
 ShowPostNavLinks = true
-ShowWordCount = false
+ShowWordCount = true
 ShowLastMod = true
 ShowToc = false
 comments = true
