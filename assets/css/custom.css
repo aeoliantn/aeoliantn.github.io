@@ -1,0 +1,17 @@
+/* custom.css — 用于优化表格中文换行显示 */
+
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+td, th {
+  word-break: break-all;
+  white-space: normal;
+  vertical-align: top;
+}
+
+div {
+  word-break: break-word;
+  white-space: normal;
+}

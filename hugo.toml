@@ -1,9 +1,8 @@
 baseURL = 'https://example.org/'
-languageCode = 'zh'
-#defaultContentLanguage = 'zh'
+defaultContentLanguage = 'zh_cn'
 title = '热带螃蟹'
 theme = 'PaperMod'
-
+languageCode = "zh_cn"
 
 
 
@@ -79,7 +78,6 @@ comments = true
 #defaultTheme = auto
 
 
-
 [params.assets]
 disableFingerprinting = true
 disableHLJS = true
@@ -87,3 +85,4 @@ favicon = "/assets/favicon.ico"
 favicon16x16 = "/assets/favicon-16x16.png"
 favicon32x32 = "/assets/favicon-32x32.png"
 apple_touch_icon = "/assets/apple-touch-icon.png"
+css = ["css/costum.css"]
