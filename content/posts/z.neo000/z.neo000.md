@@ -9,6 +9,11 @@ categories = [ "bblog" ]
 ## 1
 ___
 
+
+<div style="text-align: center"><img width=100% height=100% img src="https://simp6.jpg5.su/images3/IMAGE_STITCHING_jpeg-2a624b624da3cb29f.jpg" alt="IMAGE STITCHING jpeg (2)"/>
+</div><br>
+
+
 This is......
 23
 234
