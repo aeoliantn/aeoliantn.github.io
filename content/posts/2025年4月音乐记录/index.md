@@ -1,9 +1,9 @@
 +++
 date = '2025-05-01T16:24:16+09:00'
 draft = false
-title = '2025年4月音乐记录'
-tags = [ "音乐" ]
-categories = [ "音乐记录" ]
+title = '月度唱片墙丨2025年4月'
+tags = [ "音乐","R&B","乡村","摇滚","J-pop","爵士嘻哈" ]
+categories = [ "音乐杂谈" ]
 summary = '新音乐'
 language = 'zh_CN'
 +++

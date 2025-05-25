@@ -1,8 +1,8 @@
 +++
 date = '2025-04-27T20:37:10+09:00'
 draft = false
-title = '2025年第17周植物动态'
-tags = [ "植物记录" ]
+title = '根际通讯丨2025年第17周'
+tags = [ "马铃薯" ]
 categories = [ "植物记录" ]
 summary = '换盆、发芽、重生与告别'
 language = 'zh_CN'

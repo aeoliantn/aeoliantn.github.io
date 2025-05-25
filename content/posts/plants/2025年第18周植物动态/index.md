@@ -1,8 +1,8 @@
 +++
 date = '2025-05-11T20:00:00+09:00'
 draft = false
-title = '2025年第18周植物动态'
-tags = [ "植物记录" ]
+title = '根际通讯丨2025年第18周'
+tags = [ "蒲公英","沙漠玫瑰" ]
 categories = [ "植物记录" ]
 summary = '蒲公英的实验'
 language = 'zh_CN'
@@ -27,7 +27,7 @@ language = 'zh_CN'
 它的生命力确实令人惊讶。12月我外出出差整整一个月，回来后竟发现它们非但没死，反而占满了整个花盆。但由于种植经验不足，过于密集的生长让不少叶片相互挤压甚至受损发霉。不过对蒲公英来说，似乎并不算什么——毕竟它本就能从水泥地裂缝中长出完整植株。
 
 直到2024年冬末，它们终于积蓄足够营养，在四月顺利开出花朵。
-<div style="text-align: center"><img width=80% height=80% img src="https://simp6.jpg5.su/images3/photo-collage.png-2ea965eb0da3124d4.png" alt="photo collage.png (2)" border="0"/>
+<div style="text-align: center"><img width=100% height=100% img src="https://simp6.jpg5.su/images3/photo-collage.png-2ea965eb0da3124d4.png" alt="photo collage.png (2)" border="0"/>
 </div><br>
 
 后来，这盆蒲公英在一个无人照料的夏天中枯萎了。原本希望用结出的种子继续繁衍，但最终未能成功，可能是种子质量不好，也可能另有原因。

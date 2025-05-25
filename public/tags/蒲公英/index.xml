@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>蒲公英 on 热带螃蟹</title>
+    <link>https://example.org/tags/%E8%92%B2%E5%85%AC%E8%8B%B1/</link>
+    <description>Recent content in 蒲公英 on 热带螃蟹</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh_cn</language>
+    <lastBuildDate>Sun, 18 May 2025 23:00:00 +0900</lastBuildDate>
+    <atom:link href="https://example.org/tags/%E8%92%B2%E5%85%AC%E8%8B%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>根际通讯丨2025年第20周</title>
+      <link>https://example.org/posts/plants/%E6%A0%B9%E9%99%85%E9%80%9A%E8%AE%AF%E4%B8%A82025%E5%B9%B4%E7%AC%AC20%E5%91%A8/</link>
+      <pubDate>Sun, 18 May 2025 23:00:00 +0900</pubDate>
+      <guid>https://example.org/posts/plants/%E6%A0%B9%E9%99%85%E9%80%9A%E8%AE%AF%E4%B8%A82025%E5%B9%B4%E7%AC%AC20%E5%91%A8/</guid>
+      <description>稳定就好</description>
+    </item>
+    <item>
+      <title>根际通讯丨2025年第18周</title>
+      <link>https://example.org/posts/plants/2025%E5%B9%B4%E7%AC%AC18%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</link>
+      <pubDate>Sun, 11 May 2025 20:00:00 +0900</pubDate>
+      <guid>https://example.org/posts/plants/2025%E5%B9%B4%E7%AC%AC18%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</guid>
+      <description>蒲公英的实验</description>
+    </item>
+  </channel>
+</rss>

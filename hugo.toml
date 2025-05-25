@@ -69,9 +69,9 @@ url = "https://aeoliantn.github.io/index.xml"
 
 [params]
 ShowBreadCrumbs = false
-ShowReadingTime = true
+ShowReadingTime = false
 ShowPostNavLinks = true
-ShowWordCount = true
+ShowWordCount = false
 ShowLastMod = true
 ShowToc = false
 comments = true

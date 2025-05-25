@@ -1,8 +1,8 @@
 +++
 date = '2025-05-11T21:00:00+09:00'
 draft = false
-title = '2025年第19周植物动态'
-tags = [ "植物记录" ]
+title = '根际通讯丨2025年第19周'
+tags = [ "金桔","酢浆草","西红柿" ]
 categories = [ "植物记录" ]
 summary = '金桔发芽，酢浆草复活'
 language = 'zh_CN'

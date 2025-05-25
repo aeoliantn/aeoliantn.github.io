@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>植物记录 on 热带螃蟹</title>
-    <link>https://example.org/tags/%E6%A4%8D%E7%89%A9%E8%AE%B0%E5%BD%95/</link>
+    <link>http://localhost:1313/tags/%E6%A4%8D%E7%89%A9%E8%AE%B0%E5%BD%95/</link>
     <description>Recent content in 植物记录 on 热带螃蟹</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>zh_cn</language>
     <lastBuildDate>Sun, 11 May 2025 21:00:00 +0900</lastBuildDate>
-    <atom:link href="https://example.org/tags/%E6%A4%8D%E7%89%A9%E8%AE%B0%E5%BD%95/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E6%A4%8D%E7%89%A9%E8%AE%B0%E5%BD%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025年第19周植物动态</title>
-      <link>https://example.org/posts/plants/2025%E5%B9%B4%E7%AC%AC19%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</link>
+      <link>http://localhost:1313/posts/plants/2025%E5%B9%B4%E7%AC%AC19%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</link>
       <pubDate>Sun, 11 May 2025 21:00:00 +0900</pubDate>
-      <guid>https://example.org/posts/plants/2025%E5%B9%B4%E7%AC%AC19%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</guid>
+      <guid>http://localhost:1313/posts/plants/2025%E5%B9%B4%E7%AC%AC19%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</guid>
       <description>金桔发芽，酢浆草复活</description>
     </item>
     <item>
       <title>2025年第18周植物动态</title>
-      <link>https://example.org/posts/plants/2025%E5%B9%B4%E7%AC%AC18%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</link>
+      <link>http://localhost:1313/posts/plants/2025%E5%B9%B4%E7%AC%AC18%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</link>
       <pubDate>Sun, 11 May 2025 20:00:00 +0900</pubDate>
-      <guid>https://example.org/posts/plants/2025%E5%B9%B4%E7%AC%AC18%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</guid>
+      <guid>http://localhost:1313/posts/plants/2025%E5%B9%B4%E7%AC%AC18%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</guid>
       <description>蒲公英的实验</description>
     </item>
     <item>
       <title>2025年第17周植物动态</title>
-      <link>https://example.org/posts/2025%E5%B9%B4%E7%AC%AC17%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</link>
+      <link>http://localhost:1313/posts/2025%E5%B9%B4%E7%AC%AC17%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</link>
       <pubDate>Sun, 27 Apr 2025 20:37:10 +0900</pubDate>
-      <guid>https://example.org/posts/2025%E5%B9%B4%E7%AC%AC17%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</guid>
+      <guid>http://localhost:1313/posts/2025%E5%B9%B4%E7%AC%AC17%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</guid>
       <description>换盆、发芽、重生与告别</description>
     </item>
   </channel>

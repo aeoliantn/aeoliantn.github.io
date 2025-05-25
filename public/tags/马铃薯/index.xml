@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>马铃薯 on 热带螃蟹</title>
+    <link>https://example.org/tags/%E9%A9%AC%E9%93%83%E8%96%AF/</link>
+    <description>Recent content in 马铃薯 on 热带螃蟹</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>zh_cn</language>
+    <lastBuildDate>Sun, 27 Apr 2025 20:37:10 +0900</lastBuildDate>
+    <atom:link href="https://example.org/tags/%E9%A9%AC%E9%93%83%E8%96%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>根际通讯丨2025年第17周</title>
+      <link>https://example.org/posts/2025%E5%B9%B4%E7%AC%AC17%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</link>
+      <pubDate>Sun, 27 Apr 2025 20:37:10 +0900</pubDate>
+      <guid>https://example.org/posts/2025%E5%B9%B4%E7%AC%AC17%E5%91%A8%E6%A4%8D%E7%89%A9%E5%8A%A8%E6%80%81/</guid>
+      <description>换盆、发芽、重生与告别</description>
+    </item>
+  </channel>
+</rss>
